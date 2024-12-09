@@ -36,10 +36,10 @@ export class AuthStateEmitter extends EventEmitter.EventEmitter {
 const requestor = new NodeRequestor();
 
 /* an example open id connect provider */
-const openIdConnectUrl = "https://idcs-99acd7a2d0194ca8a7d8b52ae60f7fcf.identity.oraclecloud.com";
+const openIdConnectUrl = "https://idcs-########################.identity.oraclecloud.com";
 
 /* example client configuration */
-const clientId = "12384488c82d489b9bc6253560227330";
+const clientId = "#######################";
 const redirectUri = "http://localhost:8000";
 const scope = "openid profile offline_access";
 
