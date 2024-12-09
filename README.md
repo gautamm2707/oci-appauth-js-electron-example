@@ -1,8 +1,8 @@
-# AppAuth-JS + Electron
+# OCI + AppAuth-JS + Electron
 
 ![AppAuth-JS + Electron](https://raw.githubusercontent.com/gautamm2707/oci-appauth-js-electron-example/refs/heads/main/assets/appauth_electron.svg)
 
-This is an Electron Application, which uses the [AppAuth-JS](https://github.com/openid/AppAuth-JS) library.
+This is an Electron Application, which uses the [AppAuth-JS](https://github.com/openid/AppAuth-JS) library to authenticate with OCI.
 
 ## Development
 
